@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **Web based application**
+- 🔭 I'm currently working on a **Web based application**
 
 - 🌱 I'm currently learning **JavaScript**
 
